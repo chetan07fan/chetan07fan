@@ -1,4 +1,4 @@
-![logo](https://www.orioniconlibrary.com/api/preview-icon/github-6092)
+![logo](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frj9601390flce0k5s14z.png)
 <h1 align="center">Hi 👋, I'm Chetan Dodal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtGj2gtDpBCN6NmZ49VN9FizF9oKdSeToSvRG03DPksxfeAywkvT0qemZDsA_JWjsLeM&usqp=CAU"
